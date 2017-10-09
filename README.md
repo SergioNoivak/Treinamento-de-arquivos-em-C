@@ -140,6 +140,23 @@ linhas do arquivo iriam ser exibidas na tela da seguinte forma:
 O exercicio resolvido esta em `E03.c`.
 
 
+<table border="1">
+<tr>
+<td>
+ 3
+ </td>
+ <td>
+Faça um programa que leia (do teclado) um cadastro de 10 alunos, indicando o nome,
+nota1, nota2. Calcule a média aritmética simples dos 10 alunos e depois escreva em
+um arquivo texto os dados de cada aluno: nome, nota1, nota2 e média. Lembre-se de
+que as notas e média deverão ser apresentadas como valores que possuem até 2 casas
+após a vírgula.
+ </td>
+</tr>
+</table>
+
+O exercicio resolvido esta em `E04.c`.
+
 
 
 
