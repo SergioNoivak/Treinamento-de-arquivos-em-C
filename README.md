@@ -51,9 +51,9 @@ Podemos abrir um arquivo `.txt` Das seguintes formas:
 </table>
 
 Os modos de abertura de arquivo estão evidenciados em `E01.c`.
-<h2>
+<h3>
 Funcoes para abertura de arquivos texto:
-</h2>
+</h3>
 
 Podemos abrir com a seguinte funcão:
 
@@ -96,6 +96,22 @@ exemplo:
     FILE* arquivo_leitura = fopen("arq_leitura.txt","r");
     fclose(arquivo_leitura);
 ```
+
+<h1>
+Exercicios
+</h1>
+<tr>
+ <td>
+ 1.Faça um programa que separe este arquivo texto em dois arquivos binários de
+registros cujos campos são as informações descritas acima: o 1º arquivo deve conter
+apenas os modelos do sexo masculino (‘M’) e o 2º arquivo deve conter apenas os
+modelos do sexo feminino (‘F’).  
+ </td>
+ 
+ 
+</tr>
+
+
 
 
 
