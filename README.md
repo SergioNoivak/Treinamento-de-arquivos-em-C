@@ -5,7 +5,6 @@ Revisão de arquivos em Linguagem C.
             <li>de <b>TEXTO</b></li>
             <li><b>BINARIO</b></li>
         </ol>
-        
         <p> O arquivo será o lugar que vamos substituir um ou ambos de nossos fluxos principais, Entrada e Saida</p>
         
         
