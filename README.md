@@ -61,7 +61,12 @@ Podemos abrir com a seguinte funcão:
 FILE * fopen ( const char * filename, const char * mode )
 ```
 
+A funcao `fopen` retorna um ponteiro do tipo `FILE` e recebe por parametro `char * filename` que é o nome do arquivo e `const char * mode` que é uma das opções de modo da tabela anterior, exemplo:
 
+```
+ FILE* arquivo_leitura;
+ arquivo_leitura = fopen("arq_leitura.txt","r");
+```
 
 ## Arquivo BINARIO
        
