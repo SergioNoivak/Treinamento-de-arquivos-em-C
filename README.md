@@ -51,6 +51,11 @@ Podemos abrir um arquivo `.txt` Das seguintes formas:
 </table>
 
 Os modos de abertura de arquivo estão evidenciados em `E01.c`.
+<h2>
+Funcoes para abertura de arquivos `.txt`:
+</h2>
+
+
 ## Arquivo BINARIO
        
         
