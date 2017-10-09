@@ -58,9 +58,7 @@ Funcoes para abertura de arquivos texto:
 Podemos abrir com a seguinte funcão:
 
 ```
-c
 FILE * fopen ( const char * filename, const char * mode )
-
 ```
 
 
