@@ -100,6 +100,9 @@ exemplo:
 <h1>
 Exercicios
 </h1>
+
+<table border="1">
+
 <tr>
  <td>
  1.Faça um programa que separe este arquivo texto em dois arquivos binários de
@@ -111,7 +114,7 @@ modelos do sexo feminino (‘F’).
  
 </tr>
 
-
+</table>
 
 
 
