@@ -70,8 +70,18 @@ A funcao `fopen` retorna um ponteiro do tipo `FILE` e recebe por parametro `char
 <h2>
 Verificar se o arquivo foi aberto corretamente:
 </h2>
-é sempre importante saber se um arquivo foi aberto corretamente a fim de tratarmos se isso não acontecer corretamente 
-
+é sempre importante saber se um arquivo foi aberto corretamente a fim de tratarmos se isso não acontecer corretamente, exemplo:
+```
+    FILE* arquivo_leitura;
+    arquivo_leitura = fopen("arq_leitura.txt","r");
+    if(arquivo_leitura==NULL){
+        
+        printf("Arquivo nao encontrado");
+        return 0;
+        
+    }
+    
+```
 
 ## Arquivo BINARIO
        
