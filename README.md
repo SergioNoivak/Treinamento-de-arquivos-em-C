@@ -117,6 +117,31 @@ em cada linha. </td>
 
 O exercicio resolvido esta em `E02.c`.
 
+<table border="1">
+<tr>
+<td>
+ 2
+ </td>
+ <td>
+Faça um programa que leia um arquivo texto do disco, lendo linha a linha, e exibindo
+cada uma das linhas numeradas na tela. A ideia é podermos pegar um arquivo um
+arquivo texto qualquer (pode ser inclusive o arquivo do programa fonte – arquivo “.c”
+– de um destes exercícios) e mostrar na tela com as linhas numeradas. As primeiras
+linhas do arquivo iriam ser exibidas na tela da seguinte forma:
+1: #include
+2: #include
+3:
+4: FILE *ArqEntrada;
+5: ...
+ </td>
+</tr>
+</table>
+
+O exercicio resolvido esta em `E03.c`.
+
+
+
+
 
 
 ## Arquivo BINARIO
