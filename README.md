@@ -56,7 +56,7 @@ Funcoes para abertura de arquivos texto:
 </h2>
 
 Podemos abrir com a seguinte funcão:
-`fopen`
+`FILE * fopen ( const char * filename, const char * mode )`
 
 
 
