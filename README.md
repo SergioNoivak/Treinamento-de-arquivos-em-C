@@ -86,7 +86,12 @@ Verificar se o arquivo foi aberto corretamente
 <h2>
 Fechar o arquivo
 </h2>
-Sempre quando não for mais utilizar um arquivo é necessario fecha-lo com a funcao`int fclose ( FILE * stream )`, exemplo:
+Sempre quando não for mais utilizar um arquivo é necessario fecha-lo com a funcao
+
+```
+int fclose ( FILE * stream )
+```
+exemplo:
 ```
     FILE* arquivo_leitura = fopen("arq_leitura.txt","r");
     fclose(arquivo_leitura);
