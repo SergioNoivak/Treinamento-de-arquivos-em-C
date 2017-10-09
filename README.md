@@ -41,6 +41,12 @@ Podemos abrir um arquivo `.txt` Das seguintes formas:
 <td>cria um novo arquivo para leitura e escrita</td>
 <td>O anterior é apagado e cria um novo</td>
 <td>cria um novo</td>
+</tr>
+  <tr>
+<td>”a+”</td>
+<td>Abre para edição e leitura no fim do arquivo</td>
+<td>Abre normalmente</td>
+<td>cria um novo</td>
 </tr>  
 </table>
 * Arquivo BINARIO
