@@ -9,7 +9,7 @@
         <dl>
               <dt><b> Arquivo TEXTO</b></dt>
               <dd>
-                  <p> Podemos abrir um arquivo `.txt` </p>   
+                  <p> Podemos abrir um arquivo `Install-Package bootstrap -Pre` Sass: `Install-Package bootstrap.sass -Pre` </p>   
               </dd>
               <dt><b>Arquivo BINARIO</b></dt>
         </dl>
