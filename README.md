@@ -67,9 +67,9 @@ A funcao `fopen` retorna um ponteiro do tipo `FILE` e recebe por parametro `char
  FILE* arquivo_leitura;
  arquivo_leitura = fopen("arq_leitura.txt","r");
 ```
-<h2>
+<h3>
 Verificar se o arquivo foi aberto corretamente
-</h2>
+</h3>
 
 é sempre importante saber se um arquivo foi aberto corretamente a fim de tratarmos se isso não acontecer, exemplo:
 
@@ -83,9 +83,9 @@ Verificar se o arquivo foi aberto corretamente
         }
 ```
 
-<h2>
+<h3>
 Fechar o arquivo
-</h2>
+</h3>
 Sempre quando não for mais utilizar um arquivo é necessario fecha-lo com a funcao
 
 ```
@@ -96,6 +96,8 @@ exemplo:
     FILE* arquivo_leitura = fopen("arq_leitura.txt","r");
     fclose(arquivo_leitura);
 ```
+
+
 
 
 ## Arquivo BINARIO
