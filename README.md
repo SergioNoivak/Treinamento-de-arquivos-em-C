@@ -109,11 +109,9 @@ Exercicios
  1
  </td>
  <td>
- Faça um programa que separe este arquivo texto em dois arquivos binários de
-registros cujos campos são as informações descritas acima: o 1º arquivo deve conter
-apenas os modelos do sexo masculino (‘M’) e o 2º arquivo deve conter apenas os
-modelos do sexo feminino (‘F’).  
- </td>
+Faça um programa que crie um arquivo TEXTO em disco, com o nome “dados.txt”,
+e escreva neste arquivo em disco uma contagem que vá de 1 até 100, com um número
+em cada linha. </td>
  
  
 </tr>
