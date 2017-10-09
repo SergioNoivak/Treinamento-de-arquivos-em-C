@@ -8,6 +8,10 @@ A linguagem C conta com diversas funções para tais manipulações.
 Podemos abrir um arquivo `.txt` Das seguintes formas:
 <table border="1">
 <tr>
+<td><b>MODO</b></td>
+<td><b>Descrição</b></td>
+</tr>
+ <tr>
 <td>”r”</td>
 <td>Abre o arquivo somente para leitura, a partir do início. O arquivo deve existir.</td>
 </tr>
