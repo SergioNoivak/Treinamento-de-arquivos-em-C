@@ -104,8 +104,12 @@ Exercicios
 <table border="1">
 
 <tr>
+ 
+<td>
+ 1
+ </td>
  <td>
- 1.Faça um programa que separe este arquivo texto em dois arquivos binários de
+ Faça um programa que separe este arquivo texto em dois arquivos binários de
 registros cujos campos são as informações descritas acima: o 1º arquivo deve conter
 apenas os modelos do sexo masculino (‘M’) e o 2º arquivo deve conter apenas os
 modelos do sexo feminino (‘F’).  
