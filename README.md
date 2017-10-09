@@ -24,6 +24,12 @@ Podemos abrir um arquivo `.txt` Das seguintes formas:
 <td>O anterior é apagado</td>
 <td>Cria um novo arquivo</td>
 </tr>
+<tr>
+<td>”a”</td>
+<td>Abre o arquivo para adicicionar no final</td>
+<td>abre normalmente</td>
+<td>novo arquivo é criado</td>
+</tr>
 </table>
 * Arquivo BINARIO
        
