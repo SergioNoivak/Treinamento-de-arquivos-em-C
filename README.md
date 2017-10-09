@@ -21,7 +21,7 @@ Podemos abrir um arquivo `.txt` Das seguintes formas:
 <tr>
 <td>"w"</td>
 <td>Cria um arquivo vazio para escrita. Se já havia o arquivo, ele é perdido</td>
-<td>O anterior é apagado</td>
+<td>O anterior é apagado e cria um novo</td>
 <td>Cria um novo arquivo</td>
 </tr>
 <tr>
@@ -30,6 +30,18 @@ Podemos abrir um arquivo `.txt` Das seguintes formas:
 <td>abre normalmente</td>
 <td>novo arquivo é criado</td>
 </tr>
+<tr>
+<td>”r+”</td>
+<td>Abre o arquivo para leitura e escrita, a partir do inicio.</td>
+<td>abre normalmente</td>
+<td>ponteiro NULL</td>
+</tr>  
+ <tr>
+<td>”w+”</td>
+<td>cria um novo arquivo para leitura e escrita</td>
+<td>O anterior é apagado e cria um novo</td>
+<td>cria um novo</td>
+</tr>  
 </table>
 * Arquivo BINARIO
        
