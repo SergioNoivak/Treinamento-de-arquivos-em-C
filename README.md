@@ -49,6 +49,7 @@ Podemos abrir um arquivo `.txt` Das seguintes formas:
 <td>cria um novo</td>
 </tr>  
 </table>
+ Os modos de abertura de arquivo estão evidenciados em `E01.c`.
 * Arquivo BINARIO
        
         
