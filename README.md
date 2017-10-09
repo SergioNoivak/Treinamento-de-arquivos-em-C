@@ -52,8 +52,12 @@ Podemos abrir um arquivo `.txt` Das seguintes formas:
 
 Os modos de abertura de arquivo estão evidenciados em `E01.c`.
 <h2>
-Funcoes para abertura de arquivos `.txt`:
+Funcoes para abertura de arquivos texto:
 </h2>
+
+Podemos abrir com a seguinte funcão:
+`fopen`
+
 
 
 ## Arquivo BINARIO
