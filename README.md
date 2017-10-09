@@ -10,8 +10,10 @@ Podemos abrir um arquivo `.txt` Das seguintes formas:
 <tr>
 <td><b>MODO</b></td>
 <td><b>Descrição</b></td>
+<td><b>se o arquivo EXISTIR</b></td>
+<td><b>se o arquivo NÃO EXISTIR</b></td>
 </tr>
- <tr>
+<tr>
 <td>”r”</td>
 <td>Abre o arquivo somente para leitura, a partir do início. O arquivo deve existir.</td>
 </tr>
