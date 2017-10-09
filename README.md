@@ -28,7 +28,7 @@ Podemos abrir um arquivo `.txt` Das seguintes formas:
 <td>”a”</td>
 <td>Abre o arquivo para adicicionar no final</td>
 <td>abre normalmente</td>
-<td>novo arquivo é criado</td>
+<td>cria um novo</td>
 </tr>
 <tr>
 <td>”r+”</td>
