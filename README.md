@@ -16,10 +16,14 @@ Podemos abrir um arquivo `.txt` Das seguintes formas:
 <tr>
 <td>”r”</td>
 <td>Abre o arquivo somente para leitura, a partir do início. O arquivo deve existir.</td>
+<td>abre normalmente</td>
+<td>ponteiro NULL</td>
 </tr>
 <tr>
 <td>"w"</td>
 <td>Cria um arquivo vazio para escrita. Se já havia o arquivo, ele é perdido</td>
+<td>O anterior é apagado</td>
+<td>Cria um novo arquivo</td>
 </tr>
 </table>
 * Arquivo BINARIO
