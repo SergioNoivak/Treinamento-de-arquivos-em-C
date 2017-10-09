@@ -128,11 +128,11 @@ cada uma das linhas numeradas na tela. A ideia é podermos pegar um arquivo um
 arquivo texto qualquer (pode ser inclusive o arquivo do programa fonte – arquivo “.c”
 – de um destes exercícios) e mostrar na tela com as linhas numeradas. As primeiras
 linhas do arquivo iriam ser exibidas na tela da seguinte forma:
-1: #include
-2: #include
-3:
-4: FILE *ArqEntrada;
-5: ...
+<br>1: #include
+<br>2: #include
+<br>3:
+<br>4: FILE *ArqEntrada;
+<br>5: ...
  </td>
 </tr>
 </table>
