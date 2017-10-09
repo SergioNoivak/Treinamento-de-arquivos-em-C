@@ -2,8 +2,8 @@
 ## Podemos classificar os arquivos em duas modalidades:
 * TEXTO
 * BINARIO
-O arquivo será o lugar que vamos substituir um ou ambos de nossos fluxos principais, Entrada e Saida.
-A linguagem C conta com diversas funções para tais manipulações.       
+<p>O arquivo será o lugar que vamos substituir um ou ambos de nossos fluxos principais, Entrada e Saida.
+A linguagem C conta com diversas funções para tais manipulações.</p>  
 * Arquivo TEXTO
 Podemos abrir um arquivo `Install-Package bootstrap -Pre` Sass: `Install-Package bootstrap.sass -Pre`  
 * Arquivo BINARIO
