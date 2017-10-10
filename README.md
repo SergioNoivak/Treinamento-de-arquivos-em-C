@@ -157,6 +157,19 @@ após a vírgula.
 
 O exercicio resolvido esta em `E04.c`.
 
+<table border="1">
+<tr>
+<td>
+ 4
+ </td>
+ <td>
+Faça um que abra um arquivo HTML e elimine todas as “tags” do texto, ou seja, o
+programa deve gerar um novo arquivo em disco que elimine todas as tags Html 
+ </td>
+</tr>
+</table>
+
+O exercicio resolvido esta em `E05.c`.
 
 
 
