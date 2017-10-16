@@ -176,4 +176,16 @@ O exercicio resolvido esta em `E05.c`.
 
 ## Arquivo BINARIO
        
+       
+       Tarefa 01 : ler artigo <br>
+       Tarefa 02 : escrever resumo breve. 
+       
+       
+       
+       
+       
+       
+       
+       
+       
         
